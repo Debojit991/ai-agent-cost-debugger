@@ -1,6 +1,6 @@
 # AI Agent Cost Debugger 🚀
 
-[![CI/CD Pipeline](https://github.com/ai-engineering/ai-agent-cost-debugger/actions/workflows/main.yml/badge.svg)](https://github.com/ai-engineering/ai-agent-cost-debugger/actions)
+[![CI/CD Pipeline](https://github.com/Debojit991/ai-agent-cost-debugger/actions/workflows/main.yml/badge.svg)](https://github.com/Debojit991/ai-agent-cost-debugger/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-cyan.svg)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-22-green.svg)](https://nodejs.org/)
